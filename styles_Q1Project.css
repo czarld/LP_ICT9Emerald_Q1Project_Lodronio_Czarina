@@ -1,0 +1,78 @@
+* {
+	margin: 50;
+	padding: 50;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url("STARS copy.jpeg");
+	font-family: gillsans ;
+	justify-content: center;
+	margin: 10px;
+	display: flex;             
+  flex-direction: column;    
+  align-items: center;  
+}
+
+.box { 
+	background: lightgrey;
+	border:10px solid;
+	padding: 20px;
+	background-color: lightgrey;
+	display: inline-block;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 1000px;
+	align-content:center;
+  text-align: center; 
+  border-radius: 25px;
+ 
+
+}
+
+.box2 {
+
+	background: lightgrey;
+	border:10px solid;
+	padding: 20px;
+	background-color: lightgrey;
+	display: inline-block;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 1000px;
+	border-radius: 25px;
+  align-content:center;
+}
+
+}
+
+.box ul {
+  list-style-position: outside;
+  padding: 0;
+  margin: 10px 0 0;
+  display: inline-block; 
+  text-align: left;
+
+ }
+
+ [type="submit"] {
+
+background-color: darkgray;
+color: darkred;
+border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+  font-size: 18px; 
+
+}
+
+ 
+
+
+
+
+
+
+
